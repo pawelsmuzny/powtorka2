@@ -8,7 +8,7 @@ namespace Powtorka2
 {
     class Pawel
     {
-        public int dodawanie(int a)
+        public int dodawanie(int a, int e)
         {
             var wynik = a;
             wynik = wynik * 5;
